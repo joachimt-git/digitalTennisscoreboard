@@ -1,4 +1,4 @@
-# digital tennis scoreboard with mqtt interface
+# electronic tennis scoreboard with mqtt interface
 
 ![picture of tennis scoreboard](./pictures/Tennisscoreboard.jpg)
 
