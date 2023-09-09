@@ -1,8 +1,9 @@
-# digital tennis scoreboard with mqtt interface
+# electronic tennis scoreboard with mqtt interface
 
 ![picture of tennis scoreboard](./pictures/Tennisscoreboard.jpg)
 
 ## hardware
+- an existing analog scoreboard like in the picture
 - 6 WeAct Studio Epaper Module 2,9 '' <https://github.com/WeActStudio/WeActStudio.EpaperModule>
 - esp32 nodencu board <https://www.berrybase.de/esp32-nodemcu-development-board>
 - arcade buttons
